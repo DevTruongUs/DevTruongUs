@@ -1,7 +1,7 @@
 ![MasterHead](https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2018/08/Header_gif_assembly-1.gif)
 <h1 align="center">Hi 👋, I'm Truong Tran Van</h1>
 <h3 align="center">Seeking Employment Opportunities in Computer Vision, Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtruongus&label=Profile%20views&color=0e75b6&style=flat" alt="devtruongus" /> </p>
 
