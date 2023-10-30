@@ -1,6 +1,6 @@
 ![MasterHead](https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2018/08/Header_gif_assembly-1.gif)
 <h1 align="center">Hi 👋, I'm Truong Tran Van</h1>
-<h3 align="center">Seeking employment opportunities in Computer Vision, Machine Learning</h3>
+<h3 align="center">Seeking employment opportunities in Data science, Computer Vision, Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtruongus&label=Profile%20views&color=0e75b6&style=flat" alt="devtruongus" /> </p>
